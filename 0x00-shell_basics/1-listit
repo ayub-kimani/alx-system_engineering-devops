@@ -1,2 +1,2 @@
 #!/bin/bash
-ls chmod u+x 1-listit README.md
+ls chmod u+x 1-listit README.md 0-current_working_directory
