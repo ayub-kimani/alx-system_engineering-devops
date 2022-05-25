@@ -1,1 +1,1 @@
-pwd - This command prints the absolute path name of the current working directory
+chmod u+x 0-current_working_directory
