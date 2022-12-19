@@ -24,3 +24,4 @@ This track is aimed at preparing anyone to take on the Software Development jour
 | [`0x0B-ssh`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x0B-ssh) | This project focuses on what is a SSH, how to create an SSH RSA key pair and how to connect to a remote host using SSH. |
 | [`0x0C-web_server`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x0C-web_server) | This project is about the roles of web servers and their processes (parent and child), and DNS roles. |
 | [`0x0D-web_stack_debugging_0`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x0D-web_stack_debugging_0) | This project focuses on how to debug a webstack. |
+| [`0x0F-load_balancer`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x0F-load_balancer) | This project focuses on `Load balancer` and `Web stack debugging`. |
