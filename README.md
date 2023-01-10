@@ -25,3 +25,5 @@ This track is aimed at preparing anyone to take on the Software Development jour
 | [`0x0C-web_server`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x0C-web_server) | This project is about the roles of web servers and their processes (parent and child), and DNS roles. |
 | [`0x0D-web_stack_debugging_0`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x0D-web_stack_debugging_0) | This project focuses on how to debug a webstack. |
 | [`0x0F-load_balancer`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x0F-load_balancer) | This project focuses on `Load balancer` and `Web stack debugging`. |
+| [`0x10-https_ssl`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x10-https_ssl) | This project focuses on HTTPS SSL, encrypting traffic and SSL termination. |
+| [`0x13-firewall`](https://github.com/ayub-kimani/alx-system_engineering-devops/tree/master/0x13-firewall) | Useing `ufw` to configure firewalls on my issued web servers. |
